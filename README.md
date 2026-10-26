@@ -4,7 +4,7 @@ This is the repository for [Intrinsic Linguistic Bias in Formal vs. Informal Ben
 
 ## Reference
 
-Please cite the paper if you find it useful.
+Please cite these papers if you find this useful.
 
 ```
 @inproceedings{hosain2025intrinsic,
@@ -13,5 +13,12 @@ Please cite the paper if you find it useful.
   booktitle={Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
   pages={384--396},
   year={2025}
+}
+@inproceedings{sadhu2024empirical,
+  title={An empirical study on the characteristics of bias upon context length variation for bangla},
+  author={Sadhu, Jayanta and Khan, Ayan and Bhattacharjee, Abhik and Shahriyar, Rifat},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  pages={1501--1520},
+  year={2024}
 }
 ```
